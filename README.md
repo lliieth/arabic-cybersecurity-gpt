@@ -92,7 +92,7 @@ This project demonstrates how artificial intelligence and large language models 
 # Demo
 
 You can run the project directly using Google Colab:
-
 https://colab.research.google.com/drive/1J_1e6zSNB_iqC7h0UlKRlBwpV4jDhUsH?usp=sharing
+
 
 
