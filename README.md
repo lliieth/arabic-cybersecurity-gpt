@@ -89,6 +89,41 @@ This project demonstrates how artificial intelligence and large language models 
 
 ---
 
+
+## Model Testing | اختبار النموذج
+
+After training the language model on Arabic cybersecurity data, the model was tested by asking it different cybersecurity related questions.
+
+The goal of this test was to evaluate whether the trained model can understand cybersecurity concepts and generate meaningful responses.
+
+Example Test:
+
+Question:
+Explain phishing in simple terms.
+
+Model Response:
+Phishing is a cyber attack where attackers try to trick users into revealing sensitive information such as passwords or financial data by pretending to be a trusted source.
+
+This testing step shows that the trained model can respond to cybersecurity questions and generate informative answers.
+
+---
+
+## اختبار النموذج
+
+بعد تدريب نموذج اللغة على بيانات متعلقة بالأمن السيبراني باللغة العربية، تم اختبار النموذج من خلال طرح عدة أسئلة عليه تتعلق بمفاهيم الأمن السيبراني.
+
+كان الهدف من الاختبار التأكد من قدرة النموذج على فهم المفاهيم الأمنية وتوليد إجابات مناسبة.
+
+مثال على الاختبار:
+
+السؤال:
+اشرح مفهوم التصيد الاحتيالي بلغة بسيطة.
+
+إجابة النموذج:
+التصيد الاحتيالي هو نوع من الهجمات السيبرانية حيث يحاول المهاجم خداع المستخدمين للحصول على معلومات حساسة مثل كلمات المرور أو البيانات البنكية عن طريق انتحال صفة جهة موثوقة.
+
+يظهر هذا الاختبار أن النموذج المدرب قادر على فهم الأسئلة المتعلقة بالأمن السيبراني وتوليد إجابات مفيدة.
+
 # Demo
 
 You can run the project directly using Google Colab:
